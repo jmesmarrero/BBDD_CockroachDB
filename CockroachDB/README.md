@@ -1,3 +1,5 @@
+
+![](img/img.png)
 # CockroachDB
 
 ## Índice
